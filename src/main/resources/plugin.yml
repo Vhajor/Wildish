@@ -1,0 +1,10 @@
+name: Wildish
+version: '${project.version}'
+main: me.vhajor.wildish.Wildish
+api-version: 1.18
+authors: [ Vhajor ]
+description: yup.
+commands:
+  wild:
+    description: teleports the player to a random location
+    aliases: [rtp, tpr]
